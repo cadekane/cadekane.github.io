@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/micromouse/micromouse-square.jpg
+image: img/crc-research/bioinfo_img.jpg
 title: "Identifying Biomarkers of Colorectal Cancer"
 date: 2023
 published: true
