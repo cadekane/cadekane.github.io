@@ -13,8 +13,10 @@ summary: "This project uses various bioinformatics tools to process whole genome
 ---
 
 <div class="text-center p-4">
-  <img src="img/crc-research/DCR103-mafSummary.jpg" class="img-thumbnail" alt="maf-Summary" >
+  <img src="img/crc-research/DCR103-mafSummary.jpg" class="img-thumbnail" alt="maf-Summary">
 </div>
+
+<img src="img/crc-research/DCR103-mafSummary.jpg">
 
 Colorectal cancer (CRC) is the fourth most common cancer and second most common cause of cancer-related death in the United States. Furthermore, its incidence and mortality rates demonstrate disparities across different racial/ethnic populations. 
 
