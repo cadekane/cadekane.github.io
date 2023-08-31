@@ -12,7 +12,7 @@ summary: "I competed in CyberPatriot competitions between Hawai'i high schools i
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/cyberpatriots/cyberpat-img.jpeg" class="img-thumbnail" >
+  <img src="../img/cyberpatriots/cyberpat-img.jpeg" class="img-thumbnail" >
 </div>
 
 Cyberpatriots is a cybersecurity education program for youth across the United States. Students will compete in cybersecurity competitions.
