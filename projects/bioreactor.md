@@ -12,7 +12,7 @@ labels:
   - Arduino
   - 3D printing
   - Autodesk Fusion
-summary: "I worked on developing a temperature control system for a bioreactor meant to culture microalgae. The system involved Peltier cooling devices, Arduino microcontroller board and software, and Autodesk Fusion software to print 3D parts."
+summary: "I worked on developing a temperature control system for a bioreactor meant to culture microalgae. The system involved Arduino microcontroller board and software, and Autodesk Fusion software to print 3D parts."
 ---
 
 <div class="text-center p-4">
@@ -21,57 +21,16 @@ summary: "I worked on developing a temperature control system for a bioreactor m
   <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
 </div>
 
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
+### Project Objective
+The objective of this project was to contstruct a cost-effective photobioreactor to grow microalgae for research and to produce valuable, lucrative, and sustainable bioproducts. 
 
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
+## What is a bioreactor?
+A photobioreactor is an enclosed, illuminated culture vessel that scientists use to produce biomass. And this biomass is often in the form of microalgae.
 
-Here is some code that illustrates how we read values from the line sensors:
+There are different systems of photobioreactors: closed systems have no contact with the outside environment, while open systems are exposed to the air. Open systems are obviously much larger but provide a less controlled environment, while closed systems allow for less volume but offer more control over growth factors.
 
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
+## What are microalgae and why are they important?
+Microalgae are microscopic, single-celled, photosynthetic organisms that can exist independently or in colonies. They are capable of producing valuable products. You may have heard of Bioastin, which is a product harvested from the Hawaiian-grown microalgae *Haematococcus pluvialis*. Another benefit is their ability to photosynthesize and remove atmospheric CO2; they are more efficient at this than plants!
 
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
-title: "Identifying Biomarkers of Colorectal Cancer"
-date: 2023
-published: true
-labels:
-  - R
-  - Linux
-  - Python
-summary: "This project uses various bioinformatics tools to process whole genome sequencing data of colorectal cancer samples and identify potential biomarkers of the cancer."
----
-
-<div class="text-center p-4">
-  <img width="200px" src="../img/micromouse/micromouse-robot.png" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-robot-2.jpg" class="img-thumbnail" >
-  <img width="200px" src="../img/micromouse/micromouse-circuit.png" class="img-thumbnail" >
-</div>
-
-Micromouse is an event where small robot “mice” solve a 16 x 16 maze.  Events are held worldwide.  The maze is made up of a 16 by 16 gird of cells, each 180 mm square with walls 50 mm high.  The mice are completely autonomous robots that must find their way from a predetermined starting position to the central area of the maze unaided.  The mouse will need to keep track of where it is, discover walls as it explores, map out the maze and detect when it has reached the center.  having reached the center, the mouse will typically perform additional searches of the maze until it has found the most optimal route from the start to the center.  Once the most optimal route has been determined, the mouse will run that route in the shortest possible time.
-
-For this project, I was the lead programmer who was responsible for programming the various capabilities of the mouse.  I started by programming the basics, such as sensor polling and motor actuation using interrupts.  From there, I then programmed the basic PD controls for the motors of the mouse.  The PD control the drive so that the mouse would stay centered while traversing the maze and keep the mouse driving straight.  I also programmed basic algorithms used to solve the maze such as a right wall hugger and a left wall hugger algorithm.  From there I worked on a flood-fill algorithm to help the mouse track where it is in the maze, and to map the route it takes.  We finished with the fastest mouse who finished the maze within our college.
-
-Here is some code that illustrates how we read values from the line sensors:
-
-```cpp
-byte ADCRead(byte ch)
-{
-    word value;
-    ADC1SC1 = ch;
-    while (ADC1SC1_COCO != 1)
-    {   // wait until ADC conversion is completed   
-    }
-    return ADC1RL;  // lower 8-bit value out of 10-bit data from the ADC
-}
-```
-
-You can learn more at the [UH Micromouse News Announcement](https://manoa.hawaii.edu/news/article.php?aId=2857).
+## Building a Temperature Control System
+All bioreactors require some form of temperature control to ensure the water is neither too hot or too cold, which could kill the culture. I used the Arduino Uno R3 microcontroller in conjunction with Peltier coolers to generate heating and cooling. When a current runs through a Peltier cooler, one side gets hot and the other side gets cold. This allowed me to control the flow of heat from the bioreactor.
