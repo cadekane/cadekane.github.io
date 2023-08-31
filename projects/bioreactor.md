@@ -19,8 +19,6 @@ summary: "I worked on developing a temperature control system for a bioreactor m
   <img width="200px" src="../img/bioreactor/IMG_3078.jpg" class="img-thumbnail" >
 </div>
 
-<img src="/img/bioreactor/IMG_3078.jpg">
-
 ### Project Objective
 The objective of this project was to contstruct a cost-effective photobioreactor to grow microalgae for research and to produce valuable, lucrative, and sustainable bioproducts. 
 
