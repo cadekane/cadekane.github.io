@@ -22,7 +22,7 @@ Another field I am deeply interested in is bioinformatics. When I first entered 
 
 <img width="200px" 
      class="rounded float-start pe-4" 
-     src="../img/softare-eng_essay/blast.jpeg" >
+     src="../img/software-eng_essay/blast.jpeg" >
 
 My goal is to use the techniques and skills that come from software engineering and apply them to my study of cancer bioinformatics. For instance, BLAST (Basic Local Alignment Search Tool) lets biologists from across the entire world search for protein and nucleic acid sequences to identify species, design primers and guide RNAs, and so much more. The intersection between biology and software engineering has never been more prominent!
 
