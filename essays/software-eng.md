@@ -20,6 +20,10 @@ As a Native Hawaiian student, one of my goals is to reconcile the Hawaiian langu
 
 Another field I am deeply interested in is bioinformatics. When I first entered college, I majored in Molecular Biosciences and Biotechnology – which is quite different than computer science. As a result of my biology background and my desire to enter the field of computer science, I segued into bioinformatics, the discipline of computers and biology. 
 
+<img width="200px" 
+     class="rounded float-start pe-4" 
+     src="../img/softare-eng_essay/blast.jpeg" >
+
 My goal is to use the techniques and skills that come from software engineering and apply them to my study of cancer bioinformatics. For instance, BLAST (Basic Local Alignment Search Tool) lets biologists from across the entire world search for protein and nucleic acid sequences to identify species, design primers and guide RNAs, and so much more. The intersection between biology and software engineering has never been more prominent!
 
 ## What I want to learn
