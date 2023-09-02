@@ -16,7 +16,8 @@ summary: "I worked on developing a temperature control system for a bioreactor m
 ---
 
 <div class="text-center p-4">
-  <img width="200px" src="../img/bioreactor/IMG_3078.jpg" class="img-thumbnail" >
+  <img width="400px" src="../img/bioreactor/IMG_3078.jpg" class="img-thumbnail" >
+  <img width="400px" src="../img/bioreactor/Arduino_Uno_-_R3.jpg" class="img-thumbnail">
 </div>
 
 ### Project Objective
