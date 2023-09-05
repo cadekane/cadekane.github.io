@@ -24,7 +24,7 @@ Whole genome or exome sequencing data will be used to comprehensively examine ge
 This project requires the use of several programming languages and software. Because whole genome sequencing is big data, a Linux server is used to store the files containing the genome sequences. A Python script will be used to generate the input files that are submitted to the Cromwell server, a workflow management tool that carries out the analysis from raw genome sequences to annotated mutation files. This will then allow for downstream analysis. Below is an example of a visualized .maf file of a single cancer genome that was put through the Cromwell pipeline:
 
 <div class="text-center p-4">
-  <img src="..img/crc-research/DCR103-mafSummary.jpg" class="img-thumbnail" width="400px">
+  <img src="../img/crc-research/DCR103-mafSummary.jpg" class="img-thumbnail" width="400px">
 </div>
 
 ## Future directions
