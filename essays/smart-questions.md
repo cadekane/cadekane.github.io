@@ -19,6 +19,8 @@ If, however, you have thoroughly attacked your problem to no avail, online forum
 
 StackOverFlow is a centralized hub of inquisitive developers – each with many, *****many***** questions. I will scour this gamut of inquiries to find the best and worst questions of the bunch. 
 
+<img src="img/essays/smart-questions/question.jpg" width="500px">
+
 ## A smart question:
 
 ### Xcode - How to fix 'NSUnknownKeyException', Reason: "… this class is not key value coding-compliant for the key X" error?
