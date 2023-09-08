@@ -15,7 +15,7 @@ What constitutes a “smart” question? In his essay, “How to ask questions t
 
 The first step in asking a good question is a question itself – a pre-question, directed inward at you, the questioner. *Is this something I can figure out myself? Can I easily Google or ChatGPT it? Am I using the correct assumptions?*. The harsh nature of the forum is severely unkind to the unprepared; this step can save someone a lot of time and protect them from a slew of potential passive-aggressive answers. 
 
-If, however, you have thoroughly attacked your problem to no avail, online forums are an excellent place to find your solution. Raymond explores a variety of  
+If, however, you have thoroughly attacked your problem to no avail, online forums are an excellent place to find your solution. Raymond explores a variety of forums and ways to ask smart or not-smart questions. This is an essential skill for software developers to communicate their challenges and receive good solutions. One of these forums is StackOverFlow.
 
 StackOverFlow is a centralized hub of inquisitive developers – each with many, **many** questions. I will scour this gamut of inquiries to find the best and worst questions of the bunch. 
 
