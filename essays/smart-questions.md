@@ -13,11 +13,11 @@ labels:
 
 What constitutes a “smart” question? In his essay, “How to ask questions the smart way,” Eric Raymond delineates the border between an effective question and an ineffective one. 
 
-The first step in asking a good question is a question itself – a pre-question, directed inward at you, the questioner. ******************************Is this something I can figure out myself? Can I easily Google or ChatGPT it? Am I using the correct assumptions?****************************** The harsh nature of the forum is severely unkind to the unprepared; this step can save someone a lot of time and protect them from a slew of potential passive-aggressive answers. 
+The first step in asking a good question is a question itself – a pre-question, directed inward at you, the questioner. *Is this something I can figure out myself? Can I easily Google or ChatGPT it? Am I using the correct assumptions?*. The harsh nature of the forum is severely unkind to the unprepared; this step can save someone a lot of time and protect them from a slew of potential passive-aggressive answers. 
 
 If, however, you have thoroughly attacked your problem to no avail, online forums are an excellent place to find your solution. Raymond explores a variety of  
 
-StackOverFlow is a centralized hub of inquisitive developers – each with many, *****many***** questions. I will scour this gamut of inquiries to find the best and worst questions of the bunch. 
+StackOverFlow is a centralized hub of inquisitive developers – each with many, **many** questions. I will scour this gamut of inquiries to find the best and worst questions of the bunch. 
 
 <img src="../img/essays/smart-questions/question.jpg" width="500px">
 
@@ -44,4 +44,3 @@ This question is extremely vague. There is no specific problem provided – the
 This experience has taught me how important it is to pause and think before typing, especially when you are in the public sphere. The internet is a powerful tool and it is our responsibility to use it in a way that benefits ourselves and others – one of those ways is asking thoughtful, effective questions.
 
 Ultimately, asking good questions is an ability that requires thoughtful practice. I have come to appreciate the importance of being clear and concise while framing a question, and the significance of structuring it in a way that elicits meaningful and informative responses. A good question is not just about obtaining the desired information, but also about creating an engaging and thought-provoking conversation that can help others who have similar questions. And it is not a choice but a responsibility for us young, emerging software developers to ask good questions.
-
