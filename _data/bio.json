@@ -31,79 +31,66 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science (expected Spring, 2025)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
-      "endDate": "Present",
-      "courses": [
-      ]
+      "startDate": "2021-08-22",
+      "endDate": "Present"
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Maximizing Access to Research Careers (MARC)",
+      "position": "Scholar, Researcher",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2022-09-01",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Conducts mentored bioinformatics research on colorectal cancer at the John A. Burns School of Medicine. Participates in health workshops and monthly meetings.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "UH Molecular Biosciences & Bioengineering, Du Lab",
+      "position": "Assistant Researcher",
+      "website": "",
+      "startDate": "2022-06-01",
+      "endDate": "2022-12-01",
+      "summary": "Conducted directed research under the Du Lab to construct a cost-effective photobioreactor for cultivating photosynthetic microorganisms.",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
       ]
     }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Native Hawaiian Science and Engineering Mentorship Program (NHSEMP)",
+      "website": "",
+      "position": "STEM Scholar",
+      "startDate": "2021-09-20",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "Engages in STEM-focused events and programs to network with peers and mentors, promoting STEM to Native Hawaiian students.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "NHSEMP Sophomore Success TRACs",
+        "Tutor for ENGR100 course for freshmen",
+        "On-Track Mentor for Lanai High School capstone projects"
       ]
     },
     {
-      "organization": "",
+      "organization": "Programming and Algorithms (PANDA)",
       "website": "",
       "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "startDate": "2023-09-06",
+      "endDate": "Present",
+      "summary": "Practices programming skills and problem-solving. Takes part in mock technical interviews to prepare for a career in software engineering.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Technical interviews"
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "USDA-HEC CRISPR Summer Workshop Certificate",
+      "date": "2023",
+      "awarder": "Du Lab, Dept of Molecular Biosciences & Bioengineering, Agricultural Sciences Building",
+      "summary": "Learned to work with CRISPR constructs, guide RNAs, digital droplet PCR, and used a confocal microscope."
     }
   ],
   "references": [
