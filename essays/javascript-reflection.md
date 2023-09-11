@@ -21,6 +21,6 @@ Just from our initial introduction, it’s clear that JavaScript is a gold stand
 
 ## Brain athleticism?
 
-As a concept, I find “Athletic Software Engineering” to be a promising pedagogy. To become an athlete in any field, you must learn certain skills and practice them to the point that they are second nature. The same concept applies to software engineering.
+As a concept, I find “Athletic Software Engineering” to be a promising pedagogy. To become an athlete in any field, one must learn certain skills and practice them to the point that they are second nature. The same concept applies to software engineering.
 
 The practice Workouts of the Day (WODs) are highly stressful and, at times, immobilizing. I would liken them to a pressure cooker for the brain, something that pushes in on your thoughts as you struggle to find the solution; at the end of it all you’re well done and, rather appropriately, you’ve learned more in ten minutes than what you’d learn in a one-hour lecture. I will say that I enjoy them when I know what I am doing, and detest them when I don’t. I personally am excited to see what levels of brain athleticism I can achieve by the end of ICS314.
