@@ -18,7 +18,7 @@ After using the ESLint coding standards along with IntelliJ, I have come to appr
 
 One of the issues I have personally encountered with the advent of ESLint (and now, Github Copilot) is the vast number of labels and suggestions that arise while writing my code. For instance, I will begin to write a function and IMMEDIATELY am bombarded by a list of errors. I haven’t even written any code yet! In this way, I would analogize ESLint to an overbearing mother.
 
-<img src="/Users/cadekane/github/img/essays/coding-standards/abusivemom.jpg" width="400">
+<img src="../img/coding-standards/abusivemom.jpg" width="400">
 
 I write a line of code and, before I can even gather my thoughts, RED UNDERLINE, ERROR, GET OUT OF BED, FIX YOUR CODE! Sometimes, I feel as though I need a break from this constant nagging voice that wants the best for me but needs to learn when to let me do my thing. And, at the end of the day, I *do* appreciate what ESLint does for me, and the green check mark makes it all okay.
 
