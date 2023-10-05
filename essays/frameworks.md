@@ -12,8 +12,7 @@ labels:
 ---
 
 <div style="overflow: auto;">
-  <img src="https://itsugar.com/media/catalog/product/s/p/spk_pillow_redkid_front.png" width="80" alt="Sourpatch Kid" style="float: left; margin-right: 10px;">
-  User Interface (UI) frameworks, like Sour Patch Kids, are sour then sweet. At first, learning an html/css framework like Bootstrap is a terrible experience. However, though they are complex, frameworks offer a myriad of advantages that outweigh the initial investment of time and (innumerable) frustrations that come with learning them.
+  User Interface (UI) frameworks, like Sour Patch Kids, are sour then sweet. At first, learning an html/css framework like Bootstrap is a terrible experience. <img src="https://itsugar.com/media/catalog/product/s/p/spk_pillow_redkid_front.png" width="80" alt="Sourpatch Kid" style="float: left; margin-right: 10px;"> However, though they are complex, frameworks offer a myriad of advantages that outweigh the initial investment of time and (innumerable) frustrations that come with learning them.
 </div>
 
 ## The Learning Curve: Sour…
