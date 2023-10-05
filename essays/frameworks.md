@@ -38,8 +38,8 @@ UI frameworks like Bootstrap have large communities and extensive documentation.
 
 ### Using Boostrap 5 to replicate a website:
 
-<img src="../img/essays/frameworks/original.png" width="500">
-<img src="../img/essays/frameworks/remake.png" width="500">
+<img src="../img/essays/frameworks/original.png" width="700">
+<img src="../img/essays/frameworks/remake.png" width="700">
 
 The first image is is the original PubMed website. Next, my replication using Twitter Bootstrap 5. I was able to accomplish this in about one day, when it may have taken several days using normal HTML and CSS. By getting my hands dirty, I was able to learn about new, beneficial classes from the framework that allowed me to position elements in ways that I wanted. It was a glimpse into the power and wonder of a UI framework.
 
