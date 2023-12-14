@@ -12,29 +12,38 @@ labels:
   - Website building
   - Meteor
   - Course review
-summary: "The custom-built course rating website meant to help make schedule building easier. Includes course review"
+summary: "The custom-built course rating website meant to help make schedule building easier. Includes course review and professor reviews."
 ---
 
 <div class="text-center p-4">
-  <img width="400px" src="../img/bioreactor/IMG_3078.jpg" class="img-thumbnail" >
-  <img width="400px" src="../img/bioreactor/Arduino_Uno_-_R3.jpg" class="img-thumbnail">
+  <img width="400px" src="..img/heluna-manoa/landing-logged3.png" class="img-thumbnail" >
+  <img width="400px" src="..img/heluna-manoa/write-review3.png" class="img-thumbnail">
 </div>
 
-### Project Objective
-The objective of this project was to construct a cost-effective photobioreactor to grow microalgae for research and to produce valuable, lucrative, and sustainable bioproducts. 
+## Project Objective
+This project hopes to make it easier for students at UH to create a balanced schedule with courses they can handle.
 
-## What are microalgae and why are they important?
-Microalgae are microscopic, single-celled, photosynthetic organisms that can exist independently or in colonies. They are capable of producing valuable products. You may have heard of Bioastin, which is a product harvested from the Hawaiian-grown microalgae *Haematococcus pluvialis*. Another benefit is their ability to photosynthesize and remove atmospheric CO2; they are more efficient at this than plants!
+## Pages
+<ul>
+  <li>Landing Page</li>
+  <li>List/Search Courses Page</li>
+  <li>List Professors Page</li>
+  <li>Course Review Page</li>
+  <li>Write Review Page</li>
+  <li>Your Reviews Page</li>
+  <li>Edit Review Page</li>
+  <li>Admin List Courses Page</li>
+  <li>Edit Course Page</li>
+  <li>Admin Add Course Page</li>
+</ul>
 
-For this project, I learned to handle microalgae by growing them on solid plate media. Working in a sterile environment under a laminar flow hood, I learned to transfer the microalgae from solid to liquid media, where they could grow significantly faster. The Du Lab, which I worked under, came up with a variety of creative uses for the microalgae.
+## Project Outcomes
+The culmination of our project journey was marked by multifaceted achievements, encapsulating profound learning experiences and fostering a collaborative environment that propelled us toward a deeper understanding of software engineering.
 
-## What is a bioreactor?
-A photobioreactor is an enclosed, illuminated culture vessel that scientists use to produce biomass. And this biomass is often in the form of microalgae.
+One of the most noteworthy outcomes of our project was the cultivation of a cohesive and synergistic team dynamic. Collaborating on intricate tasks and navigating through software engineering challenges served as a catalyst for the development of effective communication, coordination, and mutual support among team members. We embraced diverse perspectives, pooled our strengths, and leveraged collective expertise to surmount hurdles, ultimately fostering a cohesive team spirit that transcended individual contributions.
 
-There are different systems of photobioreactors: closed systems have no contact with the outside environment, while open systems are exposed to the air. Open systems are obviously much larger but provide a less controlled environment, while closed systems allow for less volume but offer more control over growth factors.
+The project served as an invaluable learning ground that enabled us to delve into the intricate realms of software engineering. Our exploration of React components facilitated a comprehensive understanding of component-based architectures, encapsulation, and reusability, laying the groundwork for building scalable and modular user interfaces. Furthermore, our foray into Meteor, a powerful full-stack JavaScript framework, provided a profound insight into its reactivity, isomorphic nature, and rapid application development capabilities. This immersion equipped us with the expertise to harness the potential of these technologies in crafting robust and dynamic software solutions beyond mere web applications.
 
-## Building a Temperature Control System
-All bioreactors require some form of temperature control to ensure the water is neither too hot or too cold, which could kill the culture. I used the Arduino Uno R3 microcontroller in conjunction with Peltier coolers to generate heating and cooling. When a current runs through a Peltier cooler, one side gets hot and the other side gets cold. This allowed me to control the flow of heat from the bioreactor.
+A pivotal milestone in our project journey was the successful deployment of our website using Digital Ocean. Through this process, we gained practical experience in configuring, deploying, and managing web applications in a live environment. Understanding Digital Ocean's cloud infrastructure and its seamless deployment mechanisms empowered us with the knowledge to navigate the intricacies of deploying software solutions efficiently and effectively.
 
-## Project outcomes
-This project was *the* defining step in my decision to pursue computer science as a degree. Interestingly, the first coding language I learned was Arduino – a unique one, for sure. The power of that code made me realize the impact I could have as a researcher or programmer or software engineer. Furthermore, the project taught me how to address different problems and find solutions to them.
+In conclusion, the project outcomes transcend mere technical achievements, encompassing the cultivation of teamwork, a deep dive into pivotal software engineering concepts like React components and Meteor, and the hands-on experience of deploying a live website. These outcomes collectively serve as a testament to our growth, both individually and collaboratively, in navigating the complex landscape of software engineering. As we move forward, the insights gained and skills honed during this project will undoubtedly serve as a solid foundation for our future endeavors in the dynamic realm of technology and software development.
