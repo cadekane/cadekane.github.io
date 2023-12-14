@@ -5,8 +5,8 @@ image: ---
 layout: project
 type: project
 image: img/heluna-manoa/helunaManoaLogo.png
-title: "Developing a Temperature Control System for a Bioreactor"
-date: 2022
+title: "Heluna Mānoa"
+date: 2023
 published: true
 labels:
   - Website building
