@@ -16,8 +16,8 @@ summary: "The custom-built course rating website meant to help make schedule bui
 ---
 
 <div class="text-center p-4">
-  <img width="400px" src="..img/heluna-manoa/landing-logged3.png" class="img-thumbnail" >
-  <img width="400px" src="..img/heluna-manoa/write-review3.png" class="img-thumbnail">
+  <img width="400px" src="../img/heluna-manoa/landing-logged3.png" class="img-thumbnail" >
+  <img width="400px" src="../img/heluna-manoa/write-review3.png" class="img-thumbnail">
 </div>
 
 ## Project Objective
