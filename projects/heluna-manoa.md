@@ -20,6 +20,8 @@ summary: "The custom-built course rating website meant to help make schedule bui
   <img width="400px" src="../img/heluna-manoa/write-review3.png" class="img-thumbnail">
 </div>
 
+## <a href="https://helunamanoa.info/">Visit Heluna Mānoa</a>
+
 ## Project Objective
 This project hopes to make it easier for students at UH to create a balanced schedule with courses they can handle.
 
