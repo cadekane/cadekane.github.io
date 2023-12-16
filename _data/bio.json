@@ -1,0 +1,101 @@
+{
+  "basics": {
+    "name": "Cade Kane",
+    "label": "Student at UH Mānoa",
+    "picture": "https://github.com/cadekane.png",
+    "email": "cadekane@hawaii.edu",
+    "phone": "808-780-5242",
+    "website": "https://cadekane.github.io",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences and minoring in Biology in the Department of Natural Sciences at the University of Hawaiʻi at Mānoa. I expect to graduate in Spring, 2025.",
+    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "profiles": [
+      { "network": "github", "username": "cadekane", "url": "http://github.com/cadekane" },
+      { "network": "linkedin", "username": "cadekane", "url": "https://www.linkedin.com/in/cade-kane-67192a265/" }
+    ]
+  },
+  "interests": [
+    { "name": "Bioinformatics research" },
+    { "name": "Sustainability" },
+    { "name": "Software engineering" }
+  ],
+  "skills": [
+    {
+      "name": "Languages and Frameworks",
+      "keywords": [ "C", "Java", "Javascript", "Python", "Linux"]
+    },
+    {
+      "name": "Toolsets/OS",
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "University of Hawaii, Honolulu, HI",
+      "area": "Computer Science (expected Spring, 2025)",
+      "studyType": "B.S.",
+      "startDate": "2021-08-22",
+      "endDate": "Present"
+    }
+  ],
+  "work": [
+    {
+      "company": "Maximizing Access to Research Careers (MARC)",
+      "position": "Scholar, Researcher",
+      "website": "",
+      "startDate": "2022-09-01",
+      "endDate": "Present",
+      "summary": "Conducts mentored bioinformatics research on colorectal cancer at the John A. Burns School of Medicine. Participates in health workshops and monthly meetings.",
+      "highlights": [
+      ]
+    },
+    {
+      "company": "UH Molecular Biosciences & Bioengineering, Du Lab",
+      "position": "Assistant Researcher",
+      "website": "",
+      "startDate": "2022-06-01",
+      "endDate": "2022-12-01",
+      "summary": "Conducted directed research under the Du Lab to construct a cost-effective photobioreactor for cultivating photosynthetic microorganisms.",
+      "highlights": [
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Native Hawaiian Science and Engineering Mentorship Program (NHSEMP)",
+      "website": "",
+      "position": "STEM Scholar",
+      "startDate": "2021-09-20",
+      "endDate": "Present",
+      "summary": "Engages in STEM-focused events and programs to network with peers and mentors, promoting STEM to Native Hawaiian students.",
+      "highlights": [
+        "NHSEMP Sophomore Success TRACs",
+        "Tutor for ENGR100 course for freshmen",
+        "On-Track Mentor for Lanai High School capstone projects"
+      ]
+    },
+    {
+      "organization": "Programming and Algorithms (PANDA)",
+      "website": "",
+      "position": "Professional organization involvement",
+      "startDate": "2023-09-06",
+      "endDate": "Present",
+      "summary": "Practices programming skills and problem-solving. Takes part in mock technical interviews to prepare for a career in software engineering.",
+      "highlights": [
+        "Technical interviews"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "USDA-HEC CRISPR Summer Workshop Certificate",
+      "date": "2023",
+      "awarder": "Du Lab, Dept of Molecular Biosciences & Bioengineering, Agricultural Sciences Building",
+      "summary": "Learned to work with CRISPR constructs, guide RNAs, digital droplet PCR, and used a confocal microscope."
+    }
+  ],
+  "references": [
+    {
+      "name": "Available upon request"
+    }
+  ]
+}
