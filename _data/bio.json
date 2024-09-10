@@ -15,7 +15,7 @@
   },
   "interests": [
     { "name": "Bioinformatics research" },
-    { "name": "Sustainability" },
+    { "name": "Machine learning and artificial intelligence" },
     { "name": "Software engineering" }
   ],
   "skills": [
@@ -91,6 +91,11 @@
       "date": "2023",
       "awarder": "Du Lab, Dept of Molecular Biosciences & Bioengineering, Agricultural Sciences Building",
       "summary": "Learned to work with CRISPR constructs, guide RNAs, digital droplet PCR, and used a confocal microscope."
+    },
+    {
+      "title": "Lāhui Hawaiʻi Research Conference",
+      "data": "2023",
+      "summary": "Summary"
     }
   ],
   "references": [
