@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
+    "name": "Cade J. Kanoniakapueo Kane",
+    "label": "PhD Student at the University of Hawaii at Manoa",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "email": "cadekane@hawaii.edu",
+    // "phone": "808-780-5242",
+    "website": "https://cadekane.github.io",
+    "summary": "I am studying for a PhD. in Computer Science with projects focused on Natural Language Processing for Hawaiian language.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
@@ -16,11 +16,8 @@
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Natural Language Processing" },
+    { "name": "Olelo Hawaii (Hawaiian Language)" }
   ],
   "skills": [
     {
@@ -35,10 +32,10 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Science",
       "studyType": "B.S.",
       "startDate": "2013-09-01",
-      "endDate": "Present",
+      "endDate": "2025-05-22",
       "courses": [
       ]
     }
