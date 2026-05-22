@@ -4,15 +4,13 @@
     "label": "PhD Student at the University of Hawaii at Manoa",
     "picture": "https://github.com/kambergjohnson.png",
     "email": "cadekane@hawaii.edu",
-    // "phone": "808-780-5242",
+    "phone": "808-780-5242",
     "website": "https://cadekane.github.io",
     "summary": "I am studying for a PhD. in Computer Science with projects focused on Natural Language Processing for Hawaiian language.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "cadekane", "url": "https://github.com/cadekane" },
+      { "network": "linkedin", "username": "cadekane", "url": "https://www.linkedin.com/in/cade-kane-b83047281/" },
     ]
   },
   "interests": [
