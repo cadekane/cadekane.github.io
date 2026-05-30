@@ -1,6 +1,6 @@
 ---
 layout: project
-type: project
+type: huakai
 title: "Hawaiian Youths Abroad 2026"
 image: img/hya/three_princes_san_mateo
 # All dates must be YYYY-MM-DD format!
